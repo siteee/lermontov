@@ -1,0 +1,43 @@
+body{
+    background-color: #3c333d;
+}
+
+
+#ler{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 630px;
+    
+}
+img{
+    width: 550px;
+    height: 750px;
+    border-radius: 10%;
+}
+
+#str2{
+    position: absolute;
+    
+    margin-top: 750px;
+    margin-left: 20%;
+}
+#str2 h3{
+    color: #9f3028;
+}
+
+#str{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-right: 50%;
+    font-size: 15px;
+}
+
+#str h1{
+    text-align: center;
+    color: #9c845b;
+}
+#str h2{
+    color: #9c845b;
+}
